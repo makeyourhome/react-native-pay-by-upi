@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/makeyourhome/react-native-pay-by-upi/issues"
   },
-  "homepage": "https://github.com/makeyourhome/react-native-pay-by-upi#readme"
+  "homepage": "https://github.com/makeyourhome/react-native-pay-by-upi#readme",
+  "description": "react native pay by upi",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makeyourhome/react-native-pay-by-upi.git"
+  }
 }
