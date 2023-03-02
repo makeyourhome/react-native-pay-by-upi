@@ -11,10 +11,6 @@ yarn add react-native-pay-by-upi
 ```
 
 ### Android
-#### Automatic Installation
-```
-react-native run link
-```
 
 #### Manual Installation
 Open `android/settings.gradle` add the following
@@ -45,9 +41,6 @@ import com.upi.payment.UpiPaymentPackage;
     );
   }
 ```
-
-
-
 
 ## Usage
 
